@@ -10,11 +10,7 @@ const InfoIcon = ({ width = 16, height = 16, style = {} }) => {
       version="1.1"
       fill="#ccc"
       style={{
-        ...style,
-        display: 'inline-block',  // Para evitar quebra de linha
-        verticalAlign: 'middle',  // Alinha o ícone com o texto
-        lineHeight: 1,  // Evita quebras indesejadas
-        fontSize: 'inherit'  // Faz o ícone seguir o tamanho da fonte do contêiner
+        ...style        
       }}
     >
       <title>question</title>

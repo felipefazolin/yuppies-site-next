@@ -1,0 +1,6 @@
+{
+    "title": "interessado em ter uma marca incrível?",
+    "inputs":[
+        "name", "whats", "email", "insta", "website", "marca", "ramo", "descricao", "faturamento", "colaboradores", "segmento"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Suporte",
+    "items": [
+
+
+        {
+            "title": "Reunião Inicial de Alinhamento",
+            "bullets": [
+                {
+                    "text": "Alinhamento da visão da marca",
+                    "description": "Lorem"
+                },
+                {
+                    "text": "Discussão do cronograma para o desenvolvimento e a entrega dos elementos de identidade visual",
+                    "description": "Lorem"
+                }
+            ]
+        },
+        {
+            "title": "Aprovação do Cliente",
+            "bullets": [
+                {
+                    "text": "Direito a 3 refações (após entrega do serviço)",
+                    "description": "Lorem"
+                }
+            ]
+        },
+        
+        {
+            "title": "Atendimento e Suporte Online",
+            "bullets": [
+                {
+                    "text": "Conte com nossa equipe de suporte",
+                    "description": "Lorem"
+                },
+                {
+                    "text": "Suporte via WhatsApp",
+                    "description": "Lorem"
+                }
+            ]
+        }
+    ]
+}
