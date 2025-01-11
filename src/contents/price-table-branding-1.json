@@ -1,0 +1,50 @@
+{
+    "table1": [
+      {
+        "title": "layout",
+        "content": "o layout é escolhido dentre opções pre construídas",
+        "badge": "básico"
+      },
+      {
+        "title": "responsivo",
+        "content": "o site se adapta em qualquer dispositivo",
+        "badge": "✔"
+      },
+      {
+        "title": "sessões",
+        "content": "com até 6 sessões: home, sobre, serviços, equipe e contato",
+        "badge": "6"
+      },
+      {
+        "title": "blog ou notícias",
+        "content": "sem suporte para sessão blog ou notícias",
+        "badge": "✖"
+      },
+      {
+        "title": "formulário",
+        "content": "até 1 formulário de contato com recaptcha",
+        "badge": "1"
+      },
+      {
+        "title": "interativos",
+        "content": "sem suporte funcionalidades interativas",
+        "badge": "✖"
+      },
+      {
+        "title": "gestão de conteúdo",
+        "content": "sem suporte para gestão de conteúdo",
+        "badge": "✖"
+      },
+      {
+        "title": "idioma",
+        "content": "com suporte para até 1 idioma",
+        "badge": "1"
+      },
+      {
+        "title": "suporte",
+        "content": "com suporte básico incluso",
+        "badge": "básico"
+      }
+    ]
+  }
+  

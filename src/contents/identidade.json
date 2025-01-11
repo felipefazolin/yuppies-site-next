@@ -1,0 +1,64 @@
+{
+  "header": {
+    "title": "Identidade Visual e branding",
+    "subtitle": "tenha uma identidade única, que conta a sua história",
+    "description": [     
+      "Uma marca forte cria uma primeira impressão memorável, estabelece uma conexão emocional com o público e se diferencia da concorrência, atraindo e despertando interesse desde o início."
+    ],
+    "image": "images/header/send.png"
+  },
+
+  "list": {
+    "title": "O que entregamos",
+    "items": [
+      {
+        "title": "Identidade Visual Baseada em Pesquisa",
+        "bullets": [
+          "Análise detalhada de mercado",
+          "Estudo aprofundado dos concorrentes",
+          "Pesquisa de público-alvo e preferências",
+          "Pesquisa de referências para a criação da narrativa da marca"
+        ]
+      },
+      {
+        "title": "Posicionamento Estratégico",
+        "bullets": [
+          "Definição clara do posicionamento da marca",
+          "Identificação dos valores fundamentais da marca",
+          "Elaboração da missão e visão alinhadas com os objetivos empresariais"
+        ]
+      },
+      {
+        "title": "Identidade Visual que se Destaca",
+        "bullets": [
+          "Criação de logotipos únicos",
+          "Definição de paleta de cores e tipografia",
+          "Desenvolvimento de elementos gráficos e ícones personalizados que completam a narrativa visual"
+        ]
+      },
+      {
+        "title": "Narrativa Visual que Conta Sua História",
+        "bullets": [
+          "Transformação da essência da marca em uma identidade visual única",
+          "Comunicação da narrativa da marca em cada elemento visual, refletindo seu posicionamento, missão e visão"
+        ]
+      },
+      {
+        "title": "Renovação Completa da Marca",
+        "bullets": [
+          "Identificação de oportunidades de melhoria e atualização da identidade visual",
+          "Redesign do logotipo e outros elementos visuais",
+          "Aprimoramento da marca existente"
+        ]
+      },
+      {
+        "title": "Consistência Visual em Todas as Plataformas",
+        "bullets": [
+          "Guia de aplicação de cores e tipografia",
+          "Normas de uso para logotipo e elementos visuais",
+          "Diretrizes para manter a identidade em todos os canais"
+        ]
+      }
+    ]
+  }
+}

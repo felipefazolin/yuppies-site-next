@@ -1,0 +1,32 @@
+.whats {
+  height: 100%;
+  width: auto;
+}
+
+.whats-icon {
+  height: 1.3em; /* em é din^amico será proporcional ao tamanho do texto no botão */
+  width: auto;
+  vertical-align: middle; /* Centraliza verticalmente */
+  margin-right: 0px; /* Espaço entre ícone e texto */
+  fill: var(--orange);
+  transition: fill 0.3s ease; /* Transição suave para a cor do fill */
+}
+
+.whats-button {
+  padding: 6px;
+  line-height: 1;
+  font-size: 14px;
+  font-weight: 600;
+  background-color: var(--white);
+  color: var(--orange);
+  border: 0;
+}
+
+.whats-button:hover {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+.whats-button:hover .whats-icon {
+  fill: var(--white);
+}

@@ -1,0 +1,173 @@
+/* HEADER SECTION */
+
+.header-title {
+  /* font-size: var(--header-title-size); */
+  font-weight: 900;
+  text-transform: lowercase;
+  line-height: var(--header-title-line-height);
+  color: var(--white);
+  display: inline-block;
+  margin-top: var(--header-title-margin-top-adjustment);
+  z-index: 999;
+}
+
+.header-subtitle {
+  /* font-size: var(--header-subtitle-size); */
+  font-weight: 800;
+  text-transform: lowercase;
+  line-height: var(--header-subtitle-line-height);
+  color: var(--white);
+}
+
+/* .bg-image {
+  position: absolute;
+  z-index: 0;
+  width: 100%;
+  height: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto; 
+} */
+
+.header-p {
+  font-size: var(--header-p-font-size);
+  line-height: 1;
+  color: var(--white);
+}
+
+/* Remove a margem inferior do último parágrafo */
+.header-p:last-child {
+  margin-bottom: 0 !important;
+}
+
+.header-image {
+  width: 100%;
+  height: auto;
+}
+
+.header-bg {
+  background-color: var(--blue);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 0;
+}
+
+.img-bg-1 {
+  background-image: url("../../public/images/header/identidade.png");
+  background-position: center;
+  background-size: cover;
+}
+.img-bg-2 {
+  background-image: url("../../public/images/header/send.png");
+  background-position: center;
+}
+
+.bg-header {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  max-width: 1500px; /* limita a largura do bg */
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index: -2;
+}
+
+.gradient-box-top {
+  position: absolute;
+  width: 100%; 
+  height: 100%; 
+  top: 0;
+  background: linear-gradient(
+    to bottom,
+    var(--blue-90),
+    var(--blue-80)
+  ); 
+  z-index: -1;
+}
+
+.gradient-box-left {
+  position: absolute;
+  width: 20%; 
+  height: 100%; 
+  top: 0;
+  left: 0; 
+  background: linear-gradient(
+    to right,
+    var(--blue-90),
+    var(--blue-0)
+  );
+  z-index: -1;
+}
+
+.gradient-box-right {
+  position: absolute;
+  width: 20%; 
+  height: 100%; 
+  top: 0;
+  right: 0;
+  background: linear-gradient(
+    to left,
+    var(--blue-90),
+    var(--blue-0)
+  );
+  z-index: -1;
+}
+
+
+
+/* teste */
+
+.box-break {
+  position: absolute;
+  width: 100%; 
+  height: 100%; 
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto; 
+  z-index: -1;
+}
+
+/* XXS  */
+@media screen and (max-width: 400px) {
+}
+
+/* XS */
+@media screen and (min-width: 401px) and (max-width: 576px) {
+}
+
+/* SM */
+@media screen and (min-width: 577px) and (max-width: 767px) {
+}
+
+/* MD  */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .box-break {
+    width: 700px;
+  }
+}
+
+/* LG */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .box-break {
+    width: 930px;
+  }
+}
+
+/* XL */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+  .box-break {
+    width: 1120px;
+  }
+}
+
+/* XXL */
+@media screen and (min-width: 1400px) and (max-width: 2500px) {
+  .box-break {
+    width: 1300px;
+  }
+}

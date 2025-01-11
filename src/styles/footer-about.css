@@ -1,0 +1,18 @@
+:root {
+  --logo-footer-width: 130px;
+}
+
+.logo-footer {
+  flex-grow: 0;
+  /* flex-basis: var(--logo-footer-width); */
+  height: auto;
+  width: var(--logo-footer-width);
+}
+
+.logo-footer-svg .icon {
+  fill: var(--white);
+}
+
+.logo-footer-svg .typography {
+  fill: var(--white);
+}

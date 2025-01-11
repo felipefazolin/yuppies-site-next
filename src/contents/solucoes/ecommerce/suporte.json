@@ -1,0 +1,30 @@
+{
+    "title": "Suporte",
+    "items": [
+        {
+            "title": "Manutenção e Melhorias",
+            "bullets": [
+                "Atualizações e suporte",
+                "Manutenção regular do sistema",
+                "Atualizações de segurança",
+                "Suporte técnico contínuo"
+            ]
+        },
+        {
+            "title": "Apresentação de Resultados",
+            "bullets": [
+                "Relatórios periódicos",
+                "Análise com Google Analytics",
+                "Análise com Google Search Console"
+            ]
+        },
+        {
+            "title": "Atendimento e Suporte Online",
+            "bullets": [
+                "Equipe de suporte",
+                "Esclarecimento de dúvidas",
+                "Assistência pelo WhatsApp"
+            ]
+        }
+    ]
+}

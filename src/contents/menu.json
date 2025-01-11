@@ -1,0 +1,7 @@
+[
+  { "label": "principal", "link": "/" },
+  { "label": "sobre", "link": "/a-yuppies" },
+  { "label": "soluções", "link": "/solucoes" },
+  { "label": "cases", "link": "/cases" },
+  { "label": "contato", "link": "/contato" }
+]

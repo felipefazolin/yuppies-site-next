@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Branding & Identidade",
+    "description": "Crie uma identidade única que conta a sua história",
+    "button": "Saiba Mais",
+    "link": "/solucoes/branding"
+  },
+  {
+    "title": "Social\u000DMedia",
+    "description": "Crie engajamento orgânico com seu público nas redes sociais",
+    "button": "Saiba Mais",
+    "link": "/solucoes/social"
+  },
+  {
+    "title": "Tráfego Pago",
+    "description": "Gere resultados rápidos e precisos com anúncios pagos",
+    "button": "Saiba Mais",
+    "link": "/solucoes/trafego"
+  },
+  {
+    "title": "Automação WhatsApp",
+    "description": "Dê superpoderes ao WhatsApp e otimize seu atendimento",
+    "button": "Saiba Mais",
+    "link": "/solucoes/automacao"
+  },
+  {
+    "title": "Gestão de SEO",
+    "description": "Aumente a visibilidade da sua empresa nas buscas do google",
+    "button": "Saiba Mais",
+    "link": "/solucoes/seo"
+  },
+  {
+    "title": "Soluções em E‑commerce",
+    "description": "Venda com eficiência enquanto cuidamos de tudo por você",
+    "button": "Saiba Mais",
+    "link": "/solucoes/ecommerce"
+  },
+  {
+    "title": "Soluções para Marketplace",
+    "description": "Venda em diversas plataformas enquanto fazemos a gestão",
+    "button": "Saiba Mais",
+    "link": "/solucoes/marketplace"
+  },
+  {
+    "title": "Inbound Marketing",
+    "description": "Atraia clientes com estratégias e converta leads em vendas",
+    "button": "Saiba Mais",
+    "link": "/solucoes/inbound"
+  },
+  {
+    "title": "Criação de\u00A0Sites",
+    "description": "Divulgue sua empresa online com um site personalizado",
+    "button": "Saiba Mais",
+    "link": "/solucoes/sites"
+  }
+]

@@ -1,0 +1,23 @@
+
+.section-title {
+  font-size: 50px;
+  font-weight: 900;
+  line-height: var(--section-title-line-height);
+  margin-top:var(--discount-section-title-line-height);
+  text-transform: lowercase;
+  color: var(--blue);   
+}
+
+.section-internal {
+  display: flex;
+  /* gap: var(--gap); */
+  /* align-items: center; */
+}
+
+.boxed {
+  /* width: calc(1200px - 90px);
+  margin-left: 45px;
+  margin-right: 45px; */
+  width:1200px;
+  margin: 0 auto; /* Centraliza o contêiner horizontalmente na página */
+}

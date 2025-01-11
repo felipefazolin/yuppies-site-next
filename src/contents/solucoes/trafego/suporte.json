@@ -1,0 +1,33 @@
+{
+    "title": "Suporte",
+    "items": [
+        {
+            "title": "Otimização das Campanhas",
+            "bullets": [
+                "Atualizações e suporte",
+                "Pesquisas de tendências",
+                "Testes A/B",
+                "Ajuste de segmentações",
+                "Melhoria de criativos",
+                "Ajustes de lance",
+                "Análise de palavras-chave"
+            ]
+        },
+        {
+            "title": "Apresentação de Resultados",
+            "bullets": [
+                "Relatórios periódicos",
+                "Análise com Google Analytics",
+                "Análise com Google Search Console"
+            ]
+        },
+        {
+            "title": "Atendimento e Suporte Online",
+            "bullets": [
+                "Equipe de suporte",
+                "Esclarecimento de dúvidas",
+                "Assistência pelo WhatsApp"
+            ]
+        }
+    ]
+}

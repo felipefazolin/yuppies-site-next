@@ -1,0 +1,9 @@
+.cases-video {
+    width: 100%;
+    height: auto;
+    object-fit: cover; 
+    transform: scale(1);
+    transition: transform 0.5s ease;
+  }
+  
+ 

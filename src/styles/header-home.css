@@ -1,0 +1,23 @@
+.header-home-title {
+  /* font-size: var(--header-home-title-size); */
+  font-weight: 900;
+  text-transform: lowercase;
+  line-height: var(--header-home-title-line-height);
+  color: var(--white);
+  display: inline-block;
+  /* margin-top: var(--header-home-title-margin-top-adjustment); */
+}
+
+.bg-absolute {
+  position: absolute;
+  width: 100%;
+  height: 85%;
+  z-index: -1;
+}
+
+.video {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  object-fit: cover;
+}

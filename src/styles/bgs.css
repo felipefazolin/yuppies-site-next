@@ -1,0 +1,15 @@
+
+/* BG COLOR CLASSES */
+.bg-1 {
+    background-color: var(--gray);
+  }
+  .bg-2 {
+    background-color: var(--blue);
+  }
+  .bg-3 {
+    background-color: var(--white);
+  } 
+  .bg-7 {
+    background-color: var(--orange);
+  }
+ 

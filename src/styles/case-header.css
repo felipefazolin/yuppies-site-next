@@ -1,0 +1,25 @@
+.header-cases-header {
+  background-color: var(--black);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 0;
+  height: 550px;
+}
+
+.header-cases-img-bg-1 {
+  background-image: url("../../public/images/projects/black-couple-buy-new-house.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.header-cases-bg-header {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  /* max-width: 1500px; */
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index: -2;
+}

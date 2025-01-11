@@ -1,0 +1,71 @@
+{
+    "title": "O que entregamos",
+    "items": [
+        {
+            "title": "Automação de Email Marketing",
+            "bullets": [
+                "Otimiza campanhas",
+                "Personaliza mensagens para leads",
+                "Segmenta público",
+                "Economiza tempo",
+                "Análise métricas",
+                "Aumenta conversões"
+            ]
+        },
+        {
+            "title": "Automação de WhatsApp",
+            "bullets": [
+                "Facilita mensagens personalizadas",
+                "Suporte ao cliente",
+                "Campanhas",
+                "Respostas rápidas e agendamento",
+                "Scripts de retenção"
+            ]
+        },
+        {
+            "title": "Criação de Landing Page",
+            "bullets": [
+                "Foco em conversão e design atrativo",
+                "Call to action (chamada à ação)",
+                "Testes A/B",
+                "Conteúdo persuasivo",
+                "Formulários",
+                "SEO",
+                "Campanhas específicas"
+            ]
+        },
+        {
+            "title": "Gerenciamento de RD Station",
+            "bullets": [
+                "Inclui automação",
+                "CRM",
+                "Landing pages",
+                "Email marketing",
+                "Lead scoring",
+                "Relatórios",
+                "Integrações"
+            ]
+        },
+        {
+            "title": "Criação de Material Rico",
+            "bullets": [
+                "Criamos eBooks",
+                "Whitepapers",
+                "Infográficos",
+                "Webinars",
+                "Guias",
+                "Conteúdo profundo",
+                "Valor educacional"
+            ]
+        },
+        {
+            "title": "Criação de Conteúdo",
+            "bullets": [
+                "Matérias informativas e valiosas",
+                "Que educam e engajam o público-alvo",
+                "Blogposts",
+                "E-books"
+            ]
+        }
+    ]
+}

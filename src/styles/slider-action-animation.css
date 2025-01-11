@@ -1,0 +1,79 @@
+/* ANIMAÇÕES */
+/* .div-slider-content {
+    transition: transform 100s ease, opacity 0.3s ease;
+  } */
+  
+  .slide-out-left {
+    transform: translateX(-100%); /* Move o conteúdo atual para a esquerda */
+    opacity: 0; /* Desaparece */
+  }
+  
+  .slide-out-right {
+    transform: translateX(100%); /* Move o conteúdo atual para a direita */
+    opacity: 0; /* Desaparece */
+  }
+  
+  @keyframes slideOutLeft {
+    0% {
+      transform: translateX(0); /* Posição original */
+      opacity: 1; /* Visível */
+    }
+    100% {
+      transform: translateX(-100%); /* Sai para a esquerda */
+      opacity: 0; /* Desaparece */
+    }
+  }
+  
+  @keyframes slideOutRight {
+    0% {
+      transform: translateX(0); /* Posição original */
+      opacity: 1; /* Visível */
+    }
+    100% {
+      transform: translateX(100%); /* Sai para a direita */
+      opacity: 0; /* Desaparece */
+    }
+  }
+  
+  @keyframes slideInRight {
+    0% {
+      transform: translateX(100%); /* Começa fora da tela à direita */
+      opacity: 0; /* Começa invisível */
+    }
+    100% {
+      transform: translateX(0); /* Termina na posição original */
+      opacity: 1; /* Torna-se visível */
+    }
+  }
+  
+  @keyframes slideInLeft {
+    0% {
+      transform: translateX(-100%); /* Começa fora da tela à esquerda */
+      opacity: 0; /* Começa invisível */
+    }
+    100% {
+      transform: translateX(0); /* Termina na posição original */
+      opacity: 1; /* Torna-se visível */
+    }
+  }
+
+  :root{
+ --velocity: 0.2s;
+  }
+  
+  .slide-out-left {
+    animation: slideOutLeft var(--velocity) forwards; /* Conteúdo atual sai para a esquerda */
+  }
+  
+  .slide-out-right {
+    animation: slideOutRight var(--velocity) forwards; /* Conteúdo atual sai para a direita */
+  }
+  
+  .slide-in-left {
+    animation: slideInLeft var(--velocity) forwards; /* Novo conteúdo entra pela esquerda */
+  }
+  
+  .slide-in-right {
+    animation: slideInRight var(--velocity) forwards; /* Novo conteúdo entra pela direita */
+  }
+  

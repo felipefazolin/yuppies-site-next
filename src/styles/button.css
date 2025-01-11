@@ -1,0 +1,28 @@
+.custom-button {
+  text-transform: lowercase;  
+  border: 0 !important;
+  font-weight: 600;
+}
+.button-bg-1{
+    background-color: var(--orange) !important;
+    color: var(--white);
+}
+.button-bg-1:hover{
+    background-color: var(--blue) !important;
+    color: var(--white);
+}
+
+
+.button-bg-2{
+    background-color: var(--white) !important;
+    color: var(--orange);
+}
+
+.button-bg-3{
+    background-color: var(--blue) ;
+    color: var(--white);
+}
+.button-bg-3:hover{
+    background-color: var(--white) ;
+    color: var(--blue);
+}

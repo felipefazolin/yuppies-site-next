@@ -1,0 +1,133 @@
+/* MEDIA QUERIES */
+
+/* XXS - abaixo de 360px celulares  */
+@media screen and (max-width: 400px) {
+  .div-slider-content {
+    height: 200px;
+    width: 230px;
+  }
+
+  .div-slider-title {
+    font-size: 2rem;
+  }
+  .div-slider-subtitle {
+    font-size: .9rem;
+  }
+  .div-slider {
+    height: 350px;
+  }
+}
+
+/* XS - abaixo de 576px celulares  */
+@media screen and (min-width: 401px) and (max-width: 576px) {
+
+  .div-slider-content {
+    height: 230px;
+    width: 290px;
+  }
+
+  .div-slider-title {
+    font-size: 2.8rem;
+  }
+  .div-slider-subtitle {
+    font-size: 1.2rem;
+  }
+ 
+}
+
+/* SM - 576px até 767px tablets em retrato */
+@media screen and (min-width: 577px) and (max-width: 767px) {
+
+  .div-slider-content {
+    height: 300px;
+    width: 380px;
+  }
+
+  .div-slider-title {
+    font-size: 4rem;
+  }
+  .div-slider-subtitle {
+    font-size: 1.5rem;
+  }
+ 
+}
+
+/* MD 768px ATÉ 991px notebooks e tablets em modo paisagem */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+  .div-slider-content {
+    height: 300px;
+    width: 500px;
+  }
+
+
+  .div-slider-title {
+    font-size: 4rem;
+  }
+  .div-slider-subtitle {
+    font-size: 2rem;
+  }
+
+  
+}
+
+
+
+/* LG */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+  .div-slider-content {
+    height: 320px;
+    width: 600px;
+  }
+
+
+  .div-slider-title {
+    font-size: 6rem;
+  }
+  .div-slider-subtitle {
+    font-size: 2.2rem;
+  }
+  
+}
+
+
+
+/* XL */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+
+  .div-slider-content {
+    height: 380px;
+    width: 700px;
+  }
+
+
+  .div-slider-title {
+    font-size: 6rem;
+  }
+  .div-slider-subtitle {
+    font-size: 2.8rem;
+  }
+  
+}
+
+
+
+/* XXL */
+@media screen and (min-width: 1400px)  {
+
+  .div-slider-content {
+    height: 400px;
+    width: 800px;
+  }
+
+
+  .div-slider-title {
+    font-size: 8rem;
+  }
+  .div-slider-subtitle {
+    font-size: 3rem;
+  }
+  
+}
+

@@ -1,0 +1,57 @@
+ {
+    "title": "O que entregamos",
+    "items": [
+        {
+            "title": "Planejamento e Estratégia",
+            "bullets": [
+                "Análise de requisitos",
+                "Estudo de funcionalidades necessárias",
+                "Estudo dos concorrentes",
+                "Definição de metas e objetivos"
+            ]
+        },
+        {
+            "title": "Design e Customização",
+            "bullets": [
+                "Design personalizado",
+                "Customização do tema",
+                "Design responsivo"
+            ]
+        },
+        {
+            "title": "Desenvolvimento Ecommerce",
+            "bullets": [
+                "Configuração inicial e instalação",
+                "Responsive em vários dispositivos",
+                "Shopify e woocommerce"
+            ]
+        },
+        {
+            "title": "Gestão de E-commerce",
+            "bullets": [
+                "Gestão de produtos e catálogo",
+                "Monitoramento de vendas e interações",
+                "Relatórios de desempenho",
+                "Desempenho do e-commerce"
+            ]
+        },
+        {
+            "title": "Configuração de Plugins e Apps",
+            "bullets": [
+                "Integração de aplicativos e técnicas",
+                "Instalação e configuração de plugins",
+                "Ajuste de plugins de gateways de pagamento",
+                "Novas funcionalidades"
+            ]
+        },
+        {
+            "title": "Treinamento Pós Entrega",
+            "bullets": [
+                "Operação da loja virtual",
+                "Administração da loja",
+                "Gestão de pedidos e envios",
+                "Pedidos e estoque"
+            ]
+        }
+    ]
+}

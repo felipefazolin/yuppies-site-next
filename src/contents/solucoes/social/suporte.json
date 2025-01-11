@@ -1,0 +1,31 @@
+{
+    "title": "Suporte",
+    "items": [
+        {
+            "title": "Análise e Melhorias",
+            "bullets": [
+                "Análise de engajamento e alcance",
+                "Métricas de conversão e ROI",
+                "Ajustes baseados em dados",
+                "Pesquisa de satisfação",
+                "Coleta de feedback e sugestões",
+                "Implementação de melhorias com base no feedback"
+            ]
+        },
+        {
+            "title": "Apresentação de Resultados",
+            "bullets": [
+                "Envio de relatórios periódicos",
+                "Detalhamento do desempenho preciso",
+                "Estratégias para otimizar suas postagens"
+            ]
+        },
+        {
+            "title": "Atendimento e Suporte Online",
+            "bullets": [
+                "Equipe de suporte pronta para esclarecer dúvidas",
+                "Assistência pelo WhatsApp"
+            ]
+        }
+    ]
+}

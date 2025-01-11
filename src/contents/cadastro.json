@@ -1,0 +1,13 @@
+{
+  "header": {
+    "title": "Cadastro realizado com sucesso",
+    "subtitle": "Informação que o cadastro foi realizado no formulário de contato.",
+    "description": [
+      "Acabamos de enviar um e-mail para você.",
+      "Dá uma olhada se caiu na sua caixa de spam.",
+      "Não se preocupe, um de nossos consultores vai te chamar pelo whatsapp em breve."
+    ],
+    "imageSrc": "images/header/send.png",
+    "imgClass": "img-bg-1"
+  }
+}

@@ -1,0 +1,64 @@
+:root {
+  /* GENERAL VARS */
+  --gap: 3rem;
+  --row-gap: 40px;
+  --radius: 6px;
+
+  /* MENU VARS */
+  --menu-margin: 24px;
+
+  /* TEXT COMPONENT*/
+  --text-title-color: var(--blue);
+
+  /* menu slider*/
+  --menu-slide-title-color: var(--orange);
+
+  /* CALL VARS */
+  --call-title-size: 50px;
+  --call-title-color: var(--black);
+  --call-p-font-size: 19px;
+  --call-p-line-height: 1.2;
+
+  /* HEADER HOME VARS */
+  --header-home-title-size: 72px;
+  --header-home-title-line-height: 1;
+  --header-home-title-margin-bottom: 12px;
+  --header-home-title-margin-top-adjustment: -6px;
+  --header-home-subtitle-size: 34px;
+  --header-home-subtitle-line-height: 0.95;
+  --header-home-subtitle-margin-bottom: 48px;
+  --header-home-p-font-size: 19px;
+  --header-home-p-line-height: 1.2;
+  --header-home-p-margin-bottom: 12px;
+
+  /* HEADER VARS */
+  --header-title-size: 68px;
+  --header-title-line-height: 0.95;
+  --header-title-margin-bottom: 12px;
+  --header-title-margin-top-adjustment: -6px;
+  --header-subtitle-size: 34px;
+  --header-subtitle-line-height: 0.95;
+  --header-subtitle-margin-bottom: 48px;
+  --header-p-font-size: 19px;
+  --header-p-line-height: 1.2;
+  --header-p-margin-bottom: 12px;
+
+  /* SECTION VARS */
+  --section-title-size: 50px;
+  --section-title-line-height: 0.92;
+  --discount-section-title-line-height: -5px;
+  --section-row-gap: 72px;
+  --section-margin: 72px;
+
+  /* SERVICE VARS */
+  --services-title-size: 25px;
+  --services-title-line-height: 1;
+  --discount-services-title-line-height: -3px;
+  --topics-gap: 6px;
+  --p-font-size: 16px;
+  --p-line-height: 1.1;
+
+  /* SLIDE VARS */
+  --slide-title-size: 25px;
+  --slide-title-line-height: 1;
+}

@@ -1,0 +1,32 @@
+.grid-overlay {
+  position: fixed; /* Fixo na tela */
+  top: 0;
+  left: 0;
+  width: 100%; /* Ocupa toda a largura */
+  height: 100%; /* Ocupa toda a altura */
+  z-index: 1000; /* Acima de outros elementos */
+  pointer-events: none;
+}
+
+.column {
+  height: 100vh; /* Altura das colunas para visualização */
+  /* border: 1px solid rgb(0, 255, 242); */
+  background-color: rgba(255, 0, 0, 0.1);
+}
+
+.breakpoint-info {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 18px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  text-align: left;
+  width: 180px;
+  z-index: 9999;
+}
+
+

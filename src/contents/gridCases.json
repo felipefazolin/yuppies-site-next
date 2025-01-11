@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Aplicativo Imob",
+    "description": "O aplicativo que simplifica a busca e divulgação de imóveis em Angola.",
+    "image": "images/cases/imob.jpg",
+    "link": "cases/imob",
+    "logo": "images/clients/arkad-engenharia.png",
+    "featured": true
+  },
+  {
+    "slug":"kokimoto-games",
+    "title": "Kokimoto Games",
+    "description": "Ecommerce de games, consoles e acessórios retrô ",
+    "image": "images/cases/kokimoto.jpg",
+    "link": "cases/kokimoto-games",
+    "logo": "images/clients/cheese.png",
+    "featured": true
+  },
+  {
+    "title": "Martec",
+    "description": "Qualidade e inovação na indústria de Masterbatch, Aditivos e Compostos plásticos.",
+    "image": "images/cases/martec.jpg",
+    "link": "cases/martec",
+    "logo": "images/clients/coisas-da-ce.png",
+    "featured": true
+  },
+  {
+    "title": "Elo Editora",
+    "description": "O projeto une praticidade, sustentabilidade e inovação na experiência literária digital.",
+    "image": "images/cases/elo.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/elo-editora.png",
+    "featured": true
+  },
+  {
+    "title": "Wagner Cabelereiros",
+    "description": "O site de cabelereiro online",
+    "image": "https://www.yuppies.com.br/assets/images/projetos/thumbnail-wagner.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/imob.png",
+    "featured": false
+  },
+  {
+    "title": "Omiyage Ecommerce",
+    "description": "O site institucional da Martec, desenvolvido com a tecnologia Wordpress dfsdfs ffdas fas fasfasfas",
+    "image": "https://www.yuppies.com.br/assets/images/projetos/imob-thumb.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/india-sem-limites.png",
+    "featured": false
+  },
+  {
+    "title": "Omiyage Ecommerce",
+    "description": "O site institucional da Martec, desenvolvido com a tecnologia Wordpress dfsdfs ffdas fas fasfasfas",
+    "image": "images/cases/omiyage.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/kofisa.png",
+    "featured": true
+  },
+  {
+    "title": "Omiyage Ecommerce",
+    "description": "O site institucional da Martec, desenvolvido com a tecnologia Wordpress dfsdfs ffdas fas fasfasfas",
+    "image": "images/cases/imob.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/kokimoto.png",
+    "featured": true
+  },
+  {
+    "title": "Omiyage Ecommerce",
+    "description": "O site institucional da Martec, desenvolvido com a tecnologia Wordpress dfsdfs ffdas fas fasfasfas",
+    "image": "https://www.yuppies.com.br/assets/images/projetos/imob-thumb.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/martec.png",
+    "featured": false
+  },
+  {
+    "title": "Omiyage Ecommerce",
+    "description": "O site institucional da Martec, desenvolvido com a tecnologia Wordpress dfsdfs ffdas fas fasfasfas",
+    "image": "https://www.yuppies.com.br/assets/images/projetos/imob-thumb.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/mercado-geeks.png",
+    "featured": false
+  },
+  {
+    "title": "Omiyage Ecommerce",
+    "description": "O site institucional da Martec, desenvolvido com a tecnologia Wordpress dfsdfs ffdas fas fasfasfas",
+    "image": "https://www.yuppies.com.br/assets/images/projetos/imob-thumb.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/sparks.png",
+    "featured": false
+  },
+  {
+    "title": "Omiyage Ecommerce",
+    "description": "O site institucional da Martec, desenvolvido com a tecnologia Wordpress dfsdfs ffdas fas fasfasfas",
+    "image": "https://www.yuppies.com.br/assets/images/projetos/imob-thumb.jpg",
+    "link": "cases/case1",
+    "logo": "images/clients/wagner.png",
+    "featured": false
+  }
+]

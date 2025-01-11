@@ -1,0 +1,41 @@
+.text-slider {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center; /* Alinha os itens verticalmente no centro */
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 20px; /* height extra pra não cortar o 'g' */
+}
+
+.slider-content-wrapper {
+  display: flex;
+  align-items: center; /* Alinha os itens dentro do contêiner verticalmente */
+  animation: scroll-left 60s linear infinite;
+}
+
+.slider-item {
+  text-transform: lowercase;
+  width: auto;
+  padding: 0px 0px;
+  font-size: 60px;
+  font-weight: 900;
+  line-height: 1;
+  color: var(--white);
+  margin: 0 30px; /* Espaçamento entre itens */
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(
+      -50%
+    ); /* Move o conteúdo para a esquerda pela metade da largura total */
+  }
+}

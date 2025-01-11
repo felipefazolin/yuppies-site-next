@@ -1,0 +1,49 @@
+{
+  "table2": [
+    {
+      "title": "layout",
+      "content": "o layout é desenvolvido de forma personalizada e única",
+      "badge": "personalizado"
+    },
+    {
+      "title": "responsivo",
+      "content": "o site se adapta em qualquer dispositivo",
+      "badge": "✔"
+    },
+    {
+      "title": "sessões",
+      "content": "com até 6 sessões: home, sobre, serviços, equipe e contato",
+      "badge": "6"
+    },
+    {
+      "title": "blog ou notícias",
+      "content": "com suporte para sessão blog ou notícias",
+      "badge": "✔"
+    },
+    {
+      "title": "formulário",
+      "content": "com até 3 formulários de contato com recaptcha",
+      "badge": "3"
+    },
+    {
+      "title": "interativos",
+      "content": "com suporte a funcionalidades interativas",
+      "badge": "✔"
+    },
+    {
+      "title": "gestão de conteúdo",
+      "content": "com suporte a gestão de conteúdo simplificada",
+      "badge": "✔"
+    },
+    {
+      "title": "idioma",
+      "content": "com suporte para até 2 idiomas",
+      "badge": "2"
+    },
+    {
+      "title": "suporte",
+      "content": "com suporte completo e treinamentos específicos",
+      "badge": "completo"
+    }
+  ]
+}

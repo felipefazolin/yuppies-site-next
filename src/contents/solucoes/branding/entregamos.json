@@ -1,0 +1,136 @@
+{
+    "title": "O que entregamos",
+    "items": [
+        {
+            "title": "Análise e Planejamento",
+            "bullets": [
+                {
+                    "text": "Análise detalhada do mercado",
+                    "description": "Realizamos uma pesquisa completa sobre o mercado em que o seu negócio está inserido, identificando oportunidades e desafios para garantir um posicionamento estratégico eficaz."
+                },
+                {
+                    "text": "Identificação de tendências",
+                    "description": "Acompanhamos as tendências do setor, ajustando as estratégias para se alinhar às mudanças de comportamento e demandas do consumidor."
+                },
+                {
+                    "text": "Análise de concorrentes",
+                    "description": "Estudamos os concorrentes diretos e indiretos, identificando suas fortalezas e fraquezas, para criar um diferencial competitivo para a sua marca."
+                },
+                {
+                    "text": "Análise do Público-Alvo",
+                    "description": "Mapeamos o perfil do seu público-alvo para entender suas preferências, necessidades e comportamentos, facilitando a criação de conteúdo relevante e assertivo."
+                },
+                {
+                    "text": "Criação de personas",
+                    "description": "Desenvolvemos personas detalhadas para representar seu público-alvo, ajudando a guiar todas as ações de marketing com base em perfis específicos de clientes."
+                }
+            ]
+        },
+        {
+            "title": "Estratégia de Conteúdo",
+            "bullets": [
+                {
+                    "text": "Postagens informativas",
+                    "description": "Desenvolvemos postagens com conteúdos educativos e informativos que agregam valor ao público, estabelecendo sua marca como autoridade no assunto."
+                },
+                {
+                    "text": "Publicação de enquetes e quizes",
+                    "description": "Criamos enquetes e quizes interativos para aumentar o engajamento e captar insights valiosos sobre os interesses e opiniões do público."
+                },
+                {
+                    "text": "Conteúdo de entretenimento",
+                    "description": "Geramos conteúdo que não só engaja, mas também diverte, criando uma conexão emocional com o público e incentivando o compartilhamento."
+                },
+                {
+                    "text": "Calendário editorial",
+                    "description": "Planejamos e organizamos as publicações com um calendário editorial estratégico para garantir consistência e alinhamento com as metas de marketing."
+                }
+                
+            ]
+        },
+        {
+            "title": "Produção de postagens",
+            "bullets": [
+                {
+                    "text": "Criação de conteúdo relevante",
+                    "description": "Criamos conteúdo altamente segmentado, que ressoe com os interesses e as necessidades do seu público-alvo, gerando maior relevância e engajamento."
+                },
+                {
+                    "text": "Imagens estáticas e carrossel",
+                    "description": "Desenvolvemos imagens criativas e carrosséis visuais que capturam a atenção e promovem maior interação com a audiência nas plataformas sociais."
+                },
+                {
+                    "text": "Vídeos, stories e reels",
+                    "description": "Produzimos vídeos dinâmicos e criativos, além de stories e reels envolventes, que aproveitam os formatos mais populares para aumentar a visibilidade da marca."
+                },
+                {
+                    "text": "Desenvolvimento das postagens",
+                    "description": "Nosso time de design trabalha para criar peças visuais impactantes, com layouts modernos e inovadores, que traduzem a identidade da marca de forma eficaz."
+                }
+            ]
+        },
+        {
+            "title": "Produção de copywriting",
+            "bullets": [
+                {
+                    "text": "Postagens para Facebook, Instagram, LinkedIn",
+                    "description": "Elaboramos textos persuasivos e otimizados para cada plataforma, levando em conta o tom de voz, o formato e o comportamento do usuário em cada rede social."
+                },
+                {
+                    "text": "Stories interativos",
+                    "description": "Criamos stories interativos com chamadas para ação, adesivos e elementos que incentivam a participação do público e aumentam a interação com a marca."
+                },
+                {
+                    "text": "Legendas criativas e envolventes",
+                    "description": "Escrevemos legendas criativas e chamativas, que aumentam o engajamento e incentivam o público a interagir com a postagem."
+                },
+                {
+                    "text": "Storytelling",
+                    "description": "Utilizamos o storytelling para criar narrativas envolventes e autênticas que conectam emocionalmente o público à marca, gerando identificação e fidelidade."
+                }
+            ]
+        },
+        {
+            "title": "Automação e ferramentas",
+            "bullets": [
+                {
+                    "text": "Implementação e gestão de ferramentas",
+                    "description": "Implantamos as melhores ferramentas de marketing digital e automação para otimizar o seu fluxo de trabalho e melhorar os resultados das suas ações."
+                },
+                {
+                    "text": "Automação de publicações",
+                    "description": "Automatizamos a publicação de conteúdo, garantindo consistência e evitando falhas no calendário de postagens."
+                },
+                {
+                    "text": "Implementação de chatbots",
+                    "description": "Desenvolvemos e implementamos chatbots para atendimento automatizado, melhorando a experiência do usuário e proporcionando respostas rápidas."
+                },
+                {
+                    "text": "Automação de respostas",
+                    "description": "Configuramos respostas automáticas para interagir com seus clientes de forma eficiente e imediata, economizando tempo e recursos."
+                },
+                {
+                    "text": "Acompanhamento de menções da marca",
+                    "description": "Utilizamos ferramentas de monitoramento para acompanhar as menções da sua marca nas redes sociais, permitindo agir rapidamente em situações de crise ou para aumentar a visibilidade."
+                }
+            ]
+        },
+        {
+            "title": "Gestão de relacionamento",
+            "bullets": [
+                {
+                    "text": "Monitoramento de comentários",
+                    "description": "Monitoramos constantemente os comentários em suas redes sociais, para garantir que todas as interações sejam atendidas de forma apropriada."
+                },
+                {
+                    "text": "Respostas a comentários",
+                    "description": "Respondemos aos comentários dos seguidores de forma ágil e personalizada, promovendo um relacionamento mais próximo e humanizado com o público."
+                },
+                {
+                    "text": "Moderação de comentários e spam",
+                    "description": "Realizamos a moderação de comentários, filtrando conteúdo inadequado ou spam, para manter um ambiente seguro e saudável nas redes sociais."
+                }
+            ]
+        }
+    ]
+}

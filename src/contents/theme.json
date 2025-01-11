@@ -1,0 +1,15 @@
+{
+  "light": {
+    "bg": "bg-white",
+    "colorTitle": "color-blue",
+    "colorSubtitle": "color-black",
+    "colorP": "color-black"
+  },
+  "dark": {
+    "bg": "bg-dark",
+    "colorTitle": "color-white",
+    "colorSubtitle": "color-white",
+    "colorP": "color-white"
+  }
+
+}

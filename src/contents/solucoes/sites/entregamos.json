@@ -1,0 +1,72 @@
+{
+    "title": "O que entregamos",
+    "items": [
+        {
+            "title": "Design Responsivo",
+            "bullets": [
+                "Criação de layouts adaptáveis (desktop, tablet, mobile)",
+                "Foco na usabilidade, garantindo que o site seja intuitivo e fácil de navegar",
+                "Implementação de práticas de design UX/UI"
+            ]
+        },
+        {
+            "title": "Gestão de Conteúdo",
+            "bullets": [
+                "Uso de sistemas de gerenciamento de conteúdo (CMS) como WordPress para facilitar a adição de novos conteúdos",
+                "Criação de templates de páginas personalizáveis para manter a consistência visual",
+                "Treinamento para a equipe do cliente sobre como gerenciar e atualizar o conteúdo do site"
+            ]
+        },
+        {
+            "title": "Integração com Plataformas",
+            "bullets": [
+                "Conexão do site com plataformas de e-mail marketing para capturar leads e engajar o público",
+                "Integração com redes sociais para compartilhamento automático de conteúdo",
+                "Implementação de Google Analytics e outras ferramentas de monitoramento para rastrear o comportamento dos visitantes"
+            ]
+        },
+        {
+            "title": "Suporte para Idiomas",
+            "bullets": [
+                "Desenvolvimento de sites multilingues com conteúdo adaptado para diferentes mercados",
+                "Integração de plugins ou sistemas para gerenciamento de traduções",
+                "Testes para garantir que o site seja culturalmente relevante e funcional em diferentes regiões"
+            ]
+        },
+        {
+            "title": "Desenvolvimento",
+            "bullets": [
+                "Plataformas de Gestão de Conteúdo (CMS)",
+                "Implementação de CMS para fácil atualização de conteúdo pelo cliente",
+                "Treinamento para uso eficiente da plataforma"
+            ]
+        },
+        {
+            "title": "Funcionalidades Interativas",
+            "bullets": [
+                "Implementação de elementos interativos como formulários, mapas e galerias de imagens"
+            ]
+        },
+        {
+            "title": "Integração com Redes Sociais",
+            "bullets": [
+                "Conexão do site com plataformas de redes sociais para aumentar o alcance",
+                "Ferramentas para compartilhar conteúdo facilmente"
+            ]
+        },
+        {
+            "title": "Hospedagem e Domínio",
+            "bullets": [
+                "Registro de domínio e configuração de hospedagem",
+                "Soluções de hospedagem seguras e confiáveis"
+            ]
+        },
+        {
+            "title": "Conteúdo Visual Atraente",
+            "bullets": [
+                "Criação de imagens, vídeos e gráficos que capturam a atenção",
+                "Design visual que complemente o conteúdo escrito"
+            ]
+        }
+    ]
+}

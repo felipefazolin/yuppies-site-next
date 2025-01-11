@@ -1,0 +1,25 @@
+.case-grid-text-title {
+  color: var(--black);
+  font-size: 5rem;
+  font-weight: 900;
+  line-height: 0.8;
+}
+
+.case-grid-text-subtitle {
+  color: var(--black);
+  font-size: 1rem;
+  line-height: 1.1;
+  font-weight: bold;
+}
+
+.case-grid-text-text {
+  color: var(--black);
+  font-size: 1rem;
+  line-height: 1.1;
+}
+
+.case-grid-line {
+  width: 30%;
+  margin-top: 30px;
+  border-bottom: 10px solid var(--black);
+}

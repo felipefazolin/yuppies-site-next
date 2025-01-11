@@ -1,0 +1,37 @@
+.bg-text-imob {
+  background-color: var(--black);
+}
+.text-color-imob {
+  color: var(--white);
+}
+.imob-tag-color {
+  background-color: var(--orange);
+}
+.case-p {
+  color: var(--white);
+}
+
+.container-tags {
+    position: relative;
+    padding: 0; /* Remove padding */
+    z-index: 2;
+    height: auto; 
+}
+
+.tags-wrapper {
+    display: flex; /* Usar Flexbox para alinhar as tags lado a lado */
+    flex-wrap: wrap; /* Permitir que as tags quebrem para a linha seguinte, se necessário */
+    gap: 10px; /* Espaçamento entre as tags */
+    margin-top: 10px; /* Espaçamento acima das tags, para separar do título */
+}
+
+.tag {
+    display: inline-block; /* Isso ainda está correto para as tags */
+    padding: 10px;
+    font-weight: 600;
+    line-height: 1;
+    font-size: .8rem;
+    border-radius: 10px;
+    color: var(--white);
+    background-color: var(--orange);
+}

@@ -1,0 +1,75 @@
+{
+    "title": "SEO para Ecommerce",
+    "items": [
+        {
+            "title": "Auditoria de SEO",
+            "bullets": [
+                "Análise técnica",
+                "Análise de conteúdo",
+                "Análise de backlinks"
+            ]
+        },
+        {
+            "title": "Palavras-chave",
+            "bullets": [
+                "Mapeamento de palavras-chave",
+                "Análise de concorrência",
+                "Otimização de palavra-chave"
+            ]
+        },
+        {
+            "title": "Otimização de Conversão",
+            "bullets": [
+                "Análise de comportamento do usuários",
+                "Mapa de calor",
+                "Testes A/B"
+            ]
+        },
+        {
+            "title": "Otimização On-Page",
+            "bullets": [
+                "Tempo de carregamento",
+                "Experiência de navegação",
+                "Otimização de mobile"
+            ]
+        },
+        {
+            "title": "SEO Técnico",
+            "bullets": [
+                "Mobile-friendly",
+                "HTTPS",
+                "Estrutura de dados"
+            ]
+        },
+        {
+            "title": "SEO Local",
+            "bullets": [
+                "Google Meu Negócio",
+                "Avaliações e testemunhos"
+            ]
+        },
+        {
+            "title": "Otimização Off-Page",
+            "bullets": [
+                "Backlinks",
+                "Marketing de conteúdo",
+                "Participação em comunidades"
+            ]
+        },
+        {
+            "title": "Conteúdo Otimizado",
+            "bullets": [
+                "Tamanhos das imagens e mídias",
+                "Copywriting dos produtos e site",
+                "Tag alt na descrição de imagens"
+            ]
+        },
+        {
+            "title": "Blogposts",
+            "bullets": [
+                "Criação de posts otimizados para SEO",
+                "Call to action persuasivos"
+            ]
+        }
+    ]
+}

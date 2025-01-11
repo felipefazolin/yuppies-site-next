@@ -1,0 +1,13 @@
+.grid-clients-image {
+  filter: grayscale(100%); /* Aplica o efeito PB */
+  transition: filter 1s ease; /* Transição mais lenta */
+}
+
+.grid-clients-image:hover {
+  filter: grayscale(0%); /* Aplica o efeito PB */
+}
+
+.grid-item{
+  padding: 10px;
+  border-radius: 10px;
+}

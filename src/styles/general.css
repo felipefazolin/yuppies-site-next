@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;800;900&display=swap");
+
+dl,
+ol,
+ul {
+  margin-bottom: 0 !important;
+}
+
+ul {
+  padding-left: 18px !important;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--black) !important;
+  background: var(--white) !important;
+  font-family: "Raleway", sans-serif;
+  font-feature-settings: "lnum" 1 !important;
+  font-variant-ligatures: none;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  font-feature-settings: "lnum" 1 !important;
+  font-variant-ligatures: none;  
+  font-variant-numeric: lining-nums !important;
+}
+
+/* Caso queira adicionar diretamente a elementos de texto: */
+p, h1, h2, h3, h4, h5, h6, span, li {
+  font-feature-settings: "lnum" 1 !important;
+  font-variant-ligatures: none;
+  font-variant-numeric: lining-nums !important;
+}
+
+/* IMPEDIR QUEBRA DE PALAVRAS COM HIFEM*/
+/* TODO */
+
+/*evita margem embaixo das imagens, por que são tratadas como elementos inline por padrão*/
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.regular {
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.black {
+  font-weight: 900;
+}
+
+.generalContainer {
+  margin: 0 auto; /* Centraliza o contêiner horizontalmente na página */
+}
+
+.radius {
+  border-radius: var(--radius);
+}
+
+.radius-top {
+  border-top-left-radius: var(--radius);
+  border-top-right-radius: var(--radius);
+}
+
+.radius-bottom {
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+}
+
+.border-frame {
+  border: 0px solid #2069fb; /* Borda padrão: 1px, cor preta */
+}
+
+/* VALORES EXTRAS BOOTSTRAP */
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0 !important;
+}
+
+/* AUMENTA BORDA DA TELA EM DISPOSITIVOS MÓVEIS */
+@media screen and (max-width: 576px) {
+  .row {
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+  }
+}

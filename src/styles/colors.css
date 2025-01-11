@@ -1,0 +1,88 @@
+:root {
+  /* COLOR PALETE  */
+
+  /**/
+  /* THEME 1  */
+  /* --white: #fff;
+  --black: #00060d;
+  --gray: #e1e5e2;
+  --blue: #110229;
+  --orange: #f23b2f; */
+  /**/
+
+/* THEME 2  */
+--white: #FBFCFD;
+--black: #242424;
+--gray: #DDE0EA;
+--blue: #2C2F84;
+--orange: #E95A41;
+--orange-red:#F54141;
+
+--blue-90: #030A8CE6;
+--blue-80: #030A8CCC;
+--blue-0: #030A8C00;
+
+
+.bg-white{
+  background-color: "#fff";
+}
+
+.bg-light-gray{
+  background-color: rgb(235, 235, 235);
+}
+
+.bg-dark-gray {
+  background-color: #707070;
+}
+
+.bg-dark-gray-2 {
+  background-color:#5B5B5B;
+  opacity:1;
+}
+
+.bg-salmon {
+  background-color:#D93D3D;
+}
+
+.bg-blue {
+  background-color:#030A8C;
+}
+
+.color-white{
+  color: #fff ;
+}
+
+.color-black{
+  color: #000;
+}
+
+.color-blue {
+  color:#030A8C;
+}
+
+/* 0% opacidade: 00
+10% opacidade: 1A
+20% opacidade: 33
+30% opacidade: 4D
+40% opacidade: 66
+50% opacidade: 7F
+60% opacidade: 99
+70% opacidade: B3
+80% opacidade: CC
+90% opacidade: E6 */
+
+
+
+  /* THEME 0  */
+  /* --white: #fff;
+    --black: #000000;
+    --gray: #e2e2e2;
+    --gray-light: #eaeae9;
+    --blue-dark: #020873;
+    --blue: #030dc0;
+    --blue: #1a34c6;
+    --blue-extra-light: #a1c0ff;
+    --orange: #d96d55;
+    --orange-extra-light: #ecd4ce;
+    --orange: #d93d3d; */
+}

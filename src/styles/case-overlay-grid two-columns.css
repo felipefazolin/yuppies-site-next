@@ -1,0 +1,42 @@
+.case-overlay-grid-two-columns-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding-bottom: 75%;
+}
+
+.bg-grid-overlay-two-columns {
+  background-color: var(--white);
+}
+
+.case-overlay-grid-two-columns-img1 {
+  position: absolute;
+  width: 70%; /* Largura fluida */
+  height: auto;
+  aspect-ratio: 3 / 2; /* Define a proporção 2:3 entre largura e altura */
+
+  top: 0;
+  left: 0;
+  background-color: aquamarine;
+
+  background-image: url("/images/case-overlay-grid-two-columns-img/img1.webp"); /* Substitua pelo caminho da sua imagem */
+  background-size: cover; /* Faz com que a imagem cubra todo o espaço disponível */
+  background-position: center; /* Centraliza a imagem no elemento */
+  background-repeat: no-repeat; /* Não repete a imagem */
+}
+
+.case-overlay-grid-two-columns-img2 {
+  position: absolute;
+  width: 55%; /* Largura fluida */
+  height: auto;
+  aspect-ratio: 3 / 2; /* Define a proporção 2:3 entre largura e altura */
+
+  top: 45%;
+  right: 0;
+  background-color: aquamarine;
+
+  background-image: url("/images/case-overlay-grid-two-columns-img/img2.webp"); /* Substitua pelo caminho da sua imagem */
+  background-size: cover; /* Faz com que a imagem cubra todo o espaço disponível */
+  background-position: center; /* Centraliza a imagem no elemento */
+  background-repeat: no-repeat; /* Não repete a imagem */
+}

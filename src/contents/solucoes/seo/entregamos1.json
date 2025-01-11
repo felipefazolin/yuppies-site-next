@@ -1,0 +1,50 @@
+{
+    "title": "SEO para Busca do Google",
+    "items": [
+        {
+            "title": "Análise da Concorrência",
+            "bullets": [
+                "Estudo de SEO e SEM dos concorrentes",
+                "Identificação de oportunidades e melhorias"
+            ]
+        },
+        {
+            "title": "Análise e Estratégia",
+            "bullets": [
+                "Avaliação detalhada do público-alvo",
+                "Identificação de palavras-chave",
+                "Estratégias de segmentação"
+            ]
+        },
+        {
+            "title": "SEO On-Page e Off-Page",
+            "bullets": [
+                "Otimização do conteúdo do site",
+                "Construção de backlinks de qualidade"
+            ]
+        },
+        {
+            "title": "Otimização de Campanhas",
+            "bullets": [
+                "Otimização de campanhas",
+                "Otimização de anúncios para maximizar CTR",
+                "Otimização de anúncios para CPC"
+            ]
+        },        
+        {
+            "title": "Remarketing e Segmentação",
+            "bullets": [
+                "Implementação de estratégias de remarketing",
+                "Segmentação avançada com base em comportamento de navegação e interesses"
+            ]
+        },
+        {
+            "title": "Relatórios e Monitoramento",
+            "bullets": [
+                "Monitoramento contínuo de métricas-chave como tráfego, conversões e taxas de bounce",
+                "Relatórios detalhados para avaliar o desempenho das campanhas e ajustar estratégias conforme necessário"
+            ]
+        }
+       
+    ]
+}

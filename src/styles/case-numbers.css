@@ -1,0 +1,34 @@
+.case-numbers-float {
+  display: flex;
+  justify-content: center; /* Centraliza os itens horizontalmente */
+  align-items: center; /* Centraliza os itens verticalmente */
+}
+
+.case-numbers-title {
+  color: var(--white);
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  line-height: 0.8;
+  font-weight: 700;
+  text-align: center;
+}
+
+.case-numbers {
+  color: var(--white);
+  font-size: 4rem;
+  line-height: 1;
+  font-weight: 900;
+  text-align: center;
+}
+
+.case-numbers-legend {
+  margin-top:10px;
+  color: var(--white);
+  font-size: 1rem;
+  line-height: 1;
+  text-align: center;
+}
+
+.case-numbers-bg {
+  background-color: var(--black);
+}

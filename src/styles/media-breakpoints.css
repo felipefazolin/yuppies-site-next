@@ -1,0 +1,38 @@
+/* MOBILE GERAL  */
+@media screen and (max-width: 767px) {
+}
+
+/* DESKTOP GERAL */
+@media screen and (min-width: 768px) and (max-width: 2500px) {
+}
+
+
+
+/* XXS  */
+@media screen and (max-width: 400px) {
+}
+
+/* XS */
+@media screen and (min-width: 401px) and (max-width: 576px) {
+}
+
+/* SM */
+@media screen and (min-width: 577px) and (max-width: 767px) {
+}
+
+/* MD  */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+}
+
+/* LG */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+}
+
+/* XL */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+/* XXL */
+@media screen and (min-width: 1400px) and (max-width: 2500px) {
+}
+

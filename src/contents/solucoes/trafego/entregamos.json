@@ -1,0 +1,62 @@
+{
+    "title": "O que entregamos",
+    "items": [
+        {
+            "title": "Pesquisa de Mercado",
+            "bullets": [
+                "Análise detalhada do mercado-alvo",
+                "Concorrência",
+                "Identificar oportunidades"
+            ]
+        },
+        {
+            "title": "Segmentação de Público",
+            "bullets": [
+                "Demográfica",
+                "Geográfica",
+                "Comportamental",
+                "Interesses",
+                "Palavras-chave",
+                "Listas de remarketing"
+            ]
+        },
+        {
+            "title": "Orçamento e Lance",
+            "bullets": [
+                "Definição de orçamento diário e total",
+                "Estratégias de lance (cpc, cpm, cpa, roas)",
+                "Ajustes de lance"
+            ]
+        },
+        {
+            "title": "Links Patrocinados",
+            "bullets": [
+                "Google Ads (pesquisa, display, YouTube)",
+                "Meta Ads",
+                "Facebook",
+                "Instagram",
+                "Audience Network",
+                "TikTok Ads"
+            ]
+        },
+        {
+            "title": "Criação dos Anúncios",
+            "bullets": [
+                "Copywriting",
+                "Imagens",
+                "Vídeos",
+                "Reels Instagram",
+                "Call to action (cta)"
+            ]
+        },
+        {
+            "title": "Tipos de Campanhas",
+            "bullets": [
+                "Campanhas de pesquisa",
+                "Display",
+                "Shopping",
+                "Remarketing"
+            ]
+        }
+    ]
+}

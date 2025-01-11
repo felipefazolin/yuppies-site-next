@@ -1,0 +1,120 @@
+.div-slider-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  height: 350px;
+  width: 60%; /* Ajuste para a largura desejada */
+  margin: 0 auto; /* Centraliza o conteúdo */
+}
+
+
+
+.div-slider-title {
+  font-size: 5rem;
+  font-weight: 900;
+  text-transform: lowercase;
+  color: var(--black);
+  line-height: 1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: auto;
+  /* background-color: var(--white); */
+}
+
+.div-slider-subtitle {
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: lowercase;
+  color: var(--black);
+  line-height: 1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: auto;
+  /* background-color: var(--white); */
+}
+
+.div-internal {
+  text-align: center;
+}
+
+.div-slider-button {
+  text-transform: lowercase;
+  background-color: var(--orange) !important;
+  border: 0 !important;
+}
+
+.prev-icon,
+.next-icon {
+  width: 100%;
+  height: auto;
+
+  fill: var(--black);
+  transition: fill 0.1s ease; /* Transição suave para a propriedade fill */
+}
+
+.prev-button,
+.next-button {
+  position: relative; /* Para garantir que o z-index funcione corretamente */
+  background-color: transparent;
+  border: transparent;
+  z-index: 100; /* Mantendo o z-index elevado */
+}
+
+.prev-button:hover .prev-icon,
+.next-button:hover .next-icon {
+  fill: var(--orange); /* Cor das setas ao passar o mouse */
+}
+
+/* Desabilitando o hover em dispositivos móveis */
+@media (hover: none) {
+  .prev-button:hover .prev-icon,
+  .next-button:hover .next-icon {
+    fill: initial; /* Ou a cor original que você deseja */
+  }
+}
+
+.prev-button:active .prev-icon,
+.next-button:active .next-icon {
+  fill: var(--orange); /* Cor das setas ao serem clicadas */
+}
+
+.slide-indicator {
+  margin-top: 30px; /* Espaçamento acima dos marcadores */
+  display: flex;
+  justify-content: center; /* Centraliza os marcadores */
+}
+
+.bullet {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%; /* Forma circular */
+  background-color: var(--gray); /* Cor padrão */
+  border: none; /* Remove a borda */
+  margin: 0 5px; /* Espaçamento entre os marcadores */
+  cursor: pointer; /* Muda o cursor para indicar que é clicável */
+  transition: background-color 0.3s; /* Animação na mudança de cor */
+}
+
+
+
+.bullet.active {
+  background-color: var(--orange); /* Cor para o marcador ativo */
+}
+.bullet:hover {
+  background-color: var(--orange); /* Cor do bullet ao passar o mouse */
+}
+
+/* Desabilitando o hover em dispositivos móveis */
+@media (hover: none) {
+  bullet:hover {
+    background-color:  initial; /* Ou a cor original que você deseja */
+  }
+}
+
